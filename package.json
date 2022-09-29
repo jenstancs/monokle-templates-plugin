@@ -5,11 +5,11 @@
     "author": "Jens Tan",
     "repository": "https://github.com/jenstancs/monokle-templates-plugin",
     "monoklePlugin": {
-        "modules": [
-          {
-            "type": "template",
-            "path": "basic-pod-template"
-          }
-        ]
+      "modules": [
+        {
+          "type": "template",
+          "path": "basic-pod-template"
+        }
+      ]
     }
-}
+  }
