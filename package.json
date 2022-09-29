@@ -1,0 +1,15 @@
+{
+    "name": "template-plugin",
+    "description": "Custom templates plugin",
+    "version": "1.0.0",
+    "author": "Jens Tan",
+    "repository": "https://github.com/jenstancs/monokle-templates-plugin.git",
+    "monoklePlugin": {
+        "modules": [
+          {
+            "type": "template",
+            "path": "basic-pod-template"
+          }
+        ]
+    }
+}
