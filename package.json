@@ -1,9 +1,9 @@
 {
-    "name": "template-plugin",
+    "name": "Template plugin",
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Jens Tan",
-    "repository": "https://github.com/jenstancs/monokle-templates-plugin.git",
+    "repository": "https://github.com/jenstancs/monokle-templates-plugin",
     "monoklePlugin": {
         "modules": [
           {
